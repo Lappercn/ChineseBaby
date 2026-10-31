@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+.models/
+.video-tools/
+.ffmpeg-tools/
+*.mp4
+*.mov
+*.wav
+*.zip
