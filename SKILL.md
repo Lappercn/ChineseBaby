@@ -7,6 +7,10 @@ description: Use when editing narrated footage or turning a script, story, or to
 
 把文案的动作、关系与情绪变成镜头。每幕先说明“为什么这样动”，再选择实现方式。工作流与文件交接见 [WORKFLOW.md](WORKFLOW.md)；在对应阶段读取目录内 `AGENTS.md`。
 
+## 先锁定意图
+
+开始创意前读取 [意图合同](references/intent-contract.md)，把主任务、观众看完后的理解/行动、必须证明的内容、案例与整体的范围、禁止误读和用户最新纠正写入 brief。后续结构、风格、镜头、特效和工具都服从这份合同。用户纠正方向时，先更新合同并重做最早受影响阶段，不能只改被点名的表面镜头。
+
 ## 按任务读取
 
 | 当前需要 | 参考 |
@@ -14,6 +18,7 @@ description: Use when editing narrated footage or turning a script, story, or to
 | 只有口播视频、指代/背景不明、需要用户补素材 | [原意与素材协作](references/narration-context.md) |
 | 选择口播形态、混剪与人物/证据/白板/角色交替 | [口播形态](references/narration-styles.md)、[自媒体叙事](references/social-editing.md) |
 | 主动提出有依据的新表达、拓展用户效果提示 | [创意发散与收束](references/creative-direction.md) |
+| 确定主风格、镜头语法、转场和声音材料 | [风格合同](references/style-contract.md)、[视觉语言库](references/styles.md) |
 | 查已实践工具、调用入口、选型与能力边界 | [工具与实现路由](references/production-toolkit.md) |
 | 口播需要更强表现力、圆形人物窗、多片拼接或品牌宣传 | [剪辑与动效经验](references/editing-motion-playbook.md) |
 | 写标题/字幕/画面、生成AI素材、做最终验收 | [成片内容审阅](references/editorial-review.md) |
@@ -22,7 +27,7 @@ description: Use when editing narrated footage or turning a script, story, or to
 
 成片新增文字、声音和画面都应服务于用户对观众讲的内容。制作自语和工程状态留在工作记录；不擅自用“AI剪辑实测”等制作过程命名用户的作品。既有习惯是选择依据，圆形人物、横屏、网格、风格与系列名均不固化为通用默认。
 
-理解内容后主动发散开场、视觉比喻、素材组合、转场与节奏，不把用户点名的效果当能力边界。用原意、证据、可读性和真实可用工具收束创意；吸引注意力不以编造冲突、成绩或夸大承诺为代价。
+理解内容后先提出三种真正不同的叙事结构，选择最能完成主任务的一种并说明原因，再发散开场、视觉比喻、素材组合、转场与节奏。不把用户点名的效果当能力边界，也不让效果取代主任务。用原意、证据、可读性和真实可用工具收束创意；吸引注意力不以编造冲突、成绩或夸大承诺为代价。
 
 ## 参考学习与能力复用
 
@@ -47,7 +52,7 @@ description: Use when editing narrated footage or turning a script, story, or to
 
 先从 [口播形态](references/narration-styles.md) 判断是人物主导、证据讲解、软件演示、白板、动态字、故事混剪还是角色叙事，再选视觉语言。自媒体吸引力来自内容看点、可信证据、焦点交接与节奏呼吸，不仅是人物放大缩小，也不保证流量。
 
-从 [视觉语言库](references/styles.md) 借鉴合适的主风格或局部机制，并说明内容依据。也可按用户内容另设干净纪实、浅色白板、拼贴等视觉语言并填写规格；库里的五种风格不是穷举，更不能按风格名套固定分镜。
+从 [视觉语言库](references/styles.md) 借鉴合适的主风格或局部机制，并按 [风格合同](references/style-contract.md) 写清本质、禁区、材质、颜色、字体、运动、摄影机、转场、声音、原生动作、失败模式和变化空间。也可按用户内容另设干净纪实、浅色白板、拼贴等视觉语言；库里的五种风格不是穷举，更不能按风格名套固定分镜。
 
 | 内容倾向 | 优先考虑 |
 | --- | --- |
